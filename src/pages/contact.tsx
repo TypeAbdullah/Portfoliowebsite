@@ -8,7 +8,7 @@ import {
   TwitterIcon,
 } from "../components/Icons";
 import AnimatedPage from "../components/PageWrapper";
-import { GITHUB, INSTAGRAM, LINKEDIN, TWITTER } from "../utils/constants";
+import { GITHUB, INSTAGRAM, TELEGRAM, TWITTER } from "../utils/constants";
 
 const SOCIAL_ITEMS = [
   {
