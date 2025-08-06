@@ -10,10 +10,10 @@ export default function About() {
         <title>cody — about</title>
         <meta
           name="description"
-          content="hey, i'm cody, an 20 year old software engineer and designer based in the
-        united states. i strive to build unique and polished web
-        interfaces for both consumer and business ends. i love lacrosse,
-        capybaras, and writing open source software! i'm currently working on Bloom & Hop"
+          content="Hi, I’m Abdullah — a passionate learner with a deep interest in science, technology, and
+       creative problem-solving. I’m currently exploring opportunities to grow my skills and
+      contribute to meaningful projects. Whether it's building efficient software, diving into
+        the mysteries of space, or solving real-world problems, I love turning ideas into reality."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -23,10 +23,10 @@ export default function About() {
         <AnimatedText element="h1" text="About" />
       </div>
       <p>
-        hey, i'm cody, a 20 year old software engineer and designer based in
-        the united states. i strive to build unique and polished web interfaces
-        for both consumer and business ends. i love lacrosse, capybaras, and
-        writing open source software!
+        Hi, I’m Abdullah — a passionate learner with a deep interest in science, technology, and
+       creative problem-solving. I’m currently exploring opportunities to grow my skills and
+      contribute to meaningful projects. Whether it's building efficient software, diving into
+        the mysteries of space, or solving real-world problems, I love turning ideas into reality.
       </p>
 
       <br />
