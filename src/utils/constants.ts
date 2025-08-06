@@ -3,13 +3,10 @@ import tailwindConfig from "../../tailwind.config";
 
 const fullTwConfig = resolveConfig(tailwindConfig);
 
-const EMAIL = "hello@looskie.com";
-const GITHUB = "https://github.com/looskie";
-const TWITTER = "https://twitter.com/devlooskie";
-const LINKEDIN = "https://linkedin.com/in/devlooskie/";
-const INSTAGRAM = "https://instagram.com/devlooskie";
-
-const DISCORD_ID = "207204046115831809";
+const GITHUB = "https://github.com/TypeAbdullah";
+const TWITTER = "https://twitter.com/BeacuseUnknown";
+const TELEGRAM = "https://telegram.me/NaapaExtra";
+const INSTAGRAM = "https://instagram.com/TypeAbdullah";
 
 type Work = {
   company: string;
