@@ -79,7 +79,6 @@ export {
   GITHUB,
   TELEGRAM,
   INSTAGRAM,
-  DISCORD_ID,
   WORK,
   fullTwConfig,
 };
