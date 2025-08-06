@@ -75,7 +75,6 @@ const WORK: Work[] = [
 ];
 
 export {
-  EMAIL,
   TWITTER,
   GITHUB,
   TELEGRAM,
