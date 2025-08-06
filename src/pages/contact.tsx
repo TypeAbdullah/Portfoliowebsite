@@ -15,31 +15,25 @@ const SOCIAL_ITEMS = [
     platform: "twitter",
     icon: <TwitterIcon width={30} height={30} />,
     link: TWITTER,
-    handle: "@devlooskie",
+    handle: "@beacuseunkown",
   },
   {
     platform: "github",
     icon: <GitHubIcon width={30} height={30} className="fill-primary-300" />,
     link: GITHUB,
-    handle: "@looskie",
+    handle: "@TypeAbdullah",
   },
   {
-    platform: "linkedin",
-    icon: <LinkedInIcon width={30} height={30} />,
-    link: LINKEDIN,
-    handle: "@devlooskie",
+    platform: "telegram",
+    icon: <TelegramIcon width={30} height={30} />,
+    link: TELEGRAM,
+    handle: "@NaapaExtra",
   },
   {
     platform: "instagram",
     icon: <InstagramIcon width={30} height={30} />,
     link: INSTAGRAM,
-    handle: "@devlooskie",
-  },
-  {
-    platform: "email",
-    icon: <MailIcon width={30} height={30} />,
-    link: "mailto:hello@looskie.com",
-    handle: "hello@looskie.com",
+    handle: "@TypeAbdullah",
   },
 ];
 
