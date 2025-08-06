@@ -78,7 +78,7 @@ export {
   EMAIL,
   TWITTER,
   GITHUB,
-  LINKEDIN,
+  TELEGRAM,
   INSTAGRAM,
   DISCORD_ID,
   WORK,
