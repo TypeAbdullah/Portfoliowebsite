@@ -3,7 +3,7 @@ import AnimatedText from "../components/AnimatedText";
 import {
   GitHubIcon,
   InstagramIcon,
-  LinkedInIcon,
+  TelegramIcon,
   MailIcon,
   TwitterIcon,
 } from "../components/Icons";
